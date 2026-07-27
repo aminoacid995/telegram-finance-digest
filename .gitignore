@@ -4,3 +4,4 @@
 __pycache__/
 *.pyc
 vault_checkout/
+.venv/
